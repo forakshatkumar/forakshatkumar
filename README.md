@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋, I'm Akshat Kumar
 
-<!--
-**forakshatkumar/forakshatkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm an aspiring Software Developer from India and a B.Tech student passionate about building projects and solving coding problems.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning JavaScript, React, Python, and Data Structures & Algorithms
+- 💻 Interested in Web Development and Software Engineering
+- 🚀 I build whatever excites me and keep improving myself with every project.
+- 📚 Always exploring new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools
+- C++
+- Python
+- JavaScript
+- React (Learning)
+- Git & GitHub
+
+## 📂 Featured Projects
+- 💰 Expense Tracker
+- 🛒 Amazon Clone
+- ✅ To-Do List
+
+## 📈 What I'm Doing
+- 🧩 Solving DSA problems regularly
+- 🌐 Building small Projects
+- ⚡ Improving my JavaScript and React skills
+- 🐍 Learning Python
+---
+⭐ Thanks for stopping by! Feel free to explore my repositories and follow my journey as I continue learning and building.
