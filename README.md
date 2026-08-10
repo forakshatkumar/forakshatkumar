@@ -21,6 +21,7 @@ I'm an aspiring Software Developer from India and a B.Tech student passionate ab
 - ✅ To-Do List
 
 ## 📈 What I'm Doing
+- Doing remote Internship at Codomax Solutions
 - 🧩 Solving DSA problems regularly
 - 🌐 Building small Projects
 - ⚡ Improving my JavaScript and React skills
