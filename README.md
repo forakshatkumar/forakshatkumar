@@ -13,6 +13,8 @@ I'm an aspiring Software Developer from India and a B.Tech student passionate ab
 - Python
 - JavaScript
 - React (Learning)
+- Node.Js
+- API
 - Git & GitHub
 
 ## 📂 Featured Projects
